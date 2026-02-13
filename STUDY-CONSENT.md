@@ -17,7 +17,7 @@ This component covers the use of your Git commit history and assessment submissi
 - [ ] **YES** — I consent to my Git commit history and assessment submissions being analysed for the purposes of this study.
 - [ ] **NO** — I do not consent.
 
-**Component 2: AI chat log sharing (voluntary)**
+**Component 2: AI chat log sharing**
 
 This component covers sharing your AI chat logs (from tools such as Claude, ChatGPT, or Gemini) for analysis alongside your Git history and assessment data.
 
