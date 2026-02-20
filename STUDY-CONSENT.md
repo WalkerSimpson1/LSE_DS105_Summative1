@@ -1,8 +1,8 @@
 # Study Consent Form
 
-**Participant name:** [Your name here]
+**Participant name:** WWalker Simpson
 
-**Date:** [Today's date]
+**Date:** 20/2/2026
 
 ## Your Decision
 
@@ -14,14 +14,14 @@ You can edit and update your choices at any time during the assignment period. T
 
 This component covers the use of your Git commit history and assessment submissions in this course for research purposes. All analysis occurs after grading is finalised.
 
-- [ ] **YES** — I consent to my Git commit history and assessment submissions being analysed for the purposes of this study.
+- [x] **YES** — I consent to my Git commit history and assessment submissions being analysed for the purposes of this study.
 - [ ] **NO** — I do not consent.
 
 **Component 2: AI chat log sharing**
 
 This component covers sharing your AI chat logs (from tools such as Claude, ChatGPT, or Gemini) for analysis alongside your Git history and assessment data.
 
-- [ ] **YES** — I consent to share my AI chat logs for analysis as part of this study.
+- [x] **YES** — I consent to share my AI chat logs for analysis as part of this study.
 - [ ] **NO** — I prefer not to share my AI chat logs.
 
 Replace `[ ]` with `[x]` for your chosen option, add your name and date above, then commit and push. The commit you make when confirming your decision will serve as your signature.
