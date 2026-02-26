@@ -21,8 +21,8 @@ This component covers the use of your Git commit history and assessment submissi
 
 This component covers sharing your AI chat logs (from tools such as Claude, ChatGPT, or Gemini) for analysis alongside your Git history and assessment data.
 
-- [x] **YES** — I consent to share my AI chat logs for analysis as part of this study.
-- [ ] **NO** — I prefer not to share my AI chat logs.
+- [ ] **YES** — I consent to share my AI chat logs for analysis as part of this study.
+- [x] **NO** — I prefer not to share my AI chat logs.
 
 Replace `[ ]` with `[x]` for your chosen option, add your name and date above, then commit and push. The commit you make when confirming your decision will serve as your signature.
 
