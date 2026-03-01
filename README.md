@@ -3,7 +3,7 @@
 
 Hello!
 This is the README file for my first DS105-Data for Data Science, summative project.
-
+This specific repository is a copy of the project. If there are any technical issues I didn't catch while copying it in VSCode, please email me at walkerwusimpson@gmail.com 
 
 ## Project Overview
 
